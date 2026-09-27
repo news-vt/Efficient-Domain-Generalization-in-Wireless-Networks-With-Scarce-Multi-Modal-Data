@@ -1,0 +1,7 @@
+# Python packages for dataset generation (Python 3.9)
+carla==0.9.15
+numpy==2.0.2
+pandas==2.2.3
+open3d==0.19.0
+trimesh==4.6.9
+jupyterlab

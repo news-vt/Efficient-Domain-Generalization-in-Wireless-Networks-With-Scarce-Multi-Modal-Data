@@ -1,0 +1,15 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 3D models and the ray-tracing map (download separately, see README)
+3d_model/
+3d_model.zip
+*.glb
+matlab/temp_map.ply
+
+# Generated dataset
+base_station/_out_*/
+base_station/preprocessed_out_lidar/
+base_station/dataset_index*.csv
